@@ -59,6 +59,33 @@ body {
   text-align: center;
   margin: 0 auto;
 }
+
+.privacy_policy {
+  width: 243px;
+  color: rgba(110,110,115,1);
+  position: absolute;
+  top: 1185px;
+  right: 10px;
+  font-family: SF Pro Text;
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: right;
+}
+
+.terms_condition {
+  width: 243px;
+  color: rgba(110,110,115,1);
+  position: absolute;
+  top: 1185px;
+  left: 10px;
+  font-family: SF Pro Text;
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+
 .v807_2767 {
   width: 180px;
   height: 100px;
